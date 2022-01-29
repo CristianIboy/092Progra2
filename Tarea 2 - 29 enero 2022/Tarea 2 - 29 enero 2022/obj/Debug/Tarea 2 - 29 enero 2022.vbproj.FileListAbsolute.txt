@@ -1,0 +1,13 @@
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Tarea 2 - 29 enero 2022\Tarea 2 - 29 enero 2022\bin\Debug\Tarea 2 - 29 enero 2022.exe.config
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Tarea 2 - 29 enero 2022\Tarea 2 - 29 enero 2022\bin\Debug\Tarea 2 - 29 enero 2022.exe
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Tarea 2 - 29 enero 2022\Tarea 2 - 29 enero 2022\bin\Debug\Tarea 2 - 29 enero 2022.pdb
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Tarea 2 - 29 enero 2022\Tarea 2 - 29 enero 2022\bin\Debug\Tarea 2 - 29 enero 2022.xml
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Tarea 2 - 29 enero 2022\Tarea 2 - 29 enero 2022\obj\Debug\Tarea 2 - 29 enero 2022.vbproj.AssemblyReference.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Tarea 2 - 29 enero 2022\Tarea 2 - 29 enero 2022\obj\Debug\Tarea 2 - 29 enero 2022.vbproj.SuggestedBindingRedirects.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Tarea 2 - 29 enero 2022\Tarea 2 - 29 enero 2022\obj\Debug\Tarea_2___29_enero_2022.Form1.resources
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Tarea 2 - 29 enero 2022\Tarea 2 - 29 enero 2022\obj\Debug\Tarea_2___29_enero_2022.Resources.resources
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Tarea 2 - 29 enero 2022\Tarea 2 - 29 enero 2022\obj\Debug\Tarea 2 - 29 enero 2022.vbproj.GenerateResource.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Tarea 2 - 29 enero 2022\Tarea 2 - 29 enero 2022\obj\Debug\Tarea 2 - 29 enero 2022.vbproj.CoreCompileInputs.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Tarea 2 - 29 enero 2022\Tarea 2 - 29 enero 2022\obj\Debug\Tarea 2 - 29 enero 2022.exe
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Tarea 2 - 29 enero 2022\Tarea 2 - 29 enero 2022\obj\Debug\Tarea 2 - 29 enero 2022.xml
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Tarea 2 - 29 enero 2022\Tarea 2 - 29 enero 2022\obj\Debug\Tarea 2 - 29 enero 2022.pdb
