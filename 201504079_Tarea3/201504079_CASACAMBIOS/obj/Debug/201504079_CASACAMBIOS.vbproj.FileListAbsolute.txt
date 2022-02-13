@@ -1,0 +1,14 @@
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\201504079_Tarea3\201504079_CASACAMBIOS\bin\Debug\201504079_CASACAMBIOS.exe.config
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\201504079_Tarea3\201504079_CASACAMBIOS\bin\Debug\201504079_CASACAMBIOS.exe
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\201504079_Tarea3\201504079_CASACAMBIOS\bin\Debug\201504079_CASACAMBIOS.pdb
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\201504079_Tarea3\201504079_CASACAMBIOS\bin\Debug\201504079_CASACAMBIOS.xml
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\201504079_Tarea3\201504079_CASACAMBIOS\obj\Debug\201504079_CASACAMBIOS.vbproj.AssemblyReference.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\201504079_Tarea3\201504079_CASACAMBIOS\obj\Debug\201504079_CASACAMBIOS.vbproj.SuggestedBindingRedirects.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\201504079_Tarea3\201504079_CASACAMBIOS\obj\Debug\_201504079_CASACAMBIOS.Form1.resources
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\201504079_Tarea3\201504079_CASACAMBIOS\obj\Debug\_201504079_CASACAMBIOS.Resources.resources
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\201504079_Tarea3\201504079_CASACAMBIOS\obj\Debug\201504079_CASACAMBIOS.vbproj.GenerateResource.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\201504079_Tarea3\201504079_CASACAMBIOS\obj\Debug\201504079_CASACAMBIOS.vbproj.CoreCompileInputs.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\201504079_Tarea3\201504079_CASACAMBIOS\obj\Debug\201504079_CASACAMBIOS.exe
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\201504079_Tarea3\201504079_CASACAMBIOS\obj\Debug\201504079_CASACAMBIOS.xml
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\201504079_Tarea3\201504079_CASACAMBIOS\obj\Debug\201504079_CASACAMBIOS.pdb
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\201504079_Tarea3\201504079_CASACAMBIOS\obj\Debug\_201504079_CASACAMBIOS.Form2.resources
