@@ -1,0 +1,13 @@
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial 2\201504079_Supermercado\201504079_Supermercado\bin\Debug\201504079_Supermercado.exe.config
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial 2\201504079_Supermercado\201504079_Supermercado\bin\Debug\201504079_Supermercado.exe
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial 2\201504079_Supermercado\201504079_Supermercado\bin\Debug\201504079_Supermercado.pdb
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial 2\201504079_Supermercado\201504079_Supermercado\bin\Debug\201504079_Supermercado.xml
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial 2\201504079_Supermercado\201504079_Supermercado\obj\Debug\201504079_Supermercado.vbproj.AssemblyReference.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial 2\201504079_Supermercado\201504079_Supermercado\obj\Debug\201504079_Supermercado.vbproj.SuggestedBindingRedirects.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial 2\201504079_Supermercado\201504079_Supermercado\obj\Debug\_201504079_Supermercado.Form1.resources
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial 2\201504079_Supermercado\201504079_Supermercado\obj\Debug\_201504079_Supermercado.Resources.resources
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial 2\201504079_Supermercado\201504079_Supermercado\obj\Debug\201504079_Supermercado.vbproj.GenerateResource.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial 2\201504079_Supermercado\201504079_Supermercado\obj\Debug\201504079_Supermercado.vbproj.CoreCompileInputs.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial 2\201504079_Supermercado\201504079_Supermercado\obj\Debug\201504079_Supermercado.exe
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial 2\201504079_Supermercado\201504079_Supermercado\obj\Debug\201504079_Supermercado.xml
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial 2\201504079_Supermercado\201504079_Supermercado\obj\Debug\201504079_Supermercado.pdb
