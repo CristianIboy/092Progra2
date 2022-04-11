@@ -1,0 +1,13 @@
+C:\Users\Cristian\Desktop\201504079_Envíos\201504079_Envíos\bin\Debug\201504079_Envíos.exe.config
+C:\Users\Cristian\Desktop\201504079_Envíos\201504079_Envíos\bin\Debug\201504079_Envíos.exe
+C:\Users\Cristian\Desktop\201504079_Envíos\201504079_Envíos\bin\Debug\201504079_Envíos.pdb
+C:\Users\Cristian\Desktop\201504079_Envíos\201504079_Envíos\bin\Debug\201504079_Envíos.xml
+C:\Users\Cristian\Desktop\201504079_Envíos\201504079_Envíos\obj\Debug\201504079_Envíos.vbproj.AssemblyReference.cache
+C:\Users\Cristian\Desktop\201504079_Envíos\201504079_Envíos\obj\Debug\201504079_Envíos.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Cristian\Desktop\201504079_Envíos\201504079_Envíos\obj\Debug\_201504079_Envíos.Form1.resources
+C:\Users\Cristian\Desktop\201504079_Envíos\201504079_Envíos\obj\Debug\_201504079_Envíos.Resources.resources
+C:\Users\Cristian\Desktop\201504079_Envíos\201504079_Envíos\obj\Debug\201504079_Envíos.vbproj.GenerateResource.cache
+C:\Users\Cristian\Desktop\201504079_Envíos\201504079_Envíos\obj\Debug\201504079_Envíos.vbproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\201504079_Envíos\201504079_Envíos\obj\Debug\201504079_Envíos.exe
+C:\Users\Cristian\Desktop\201504079_Envíos\201504079_Envíos\obj\Debug\201504079_Envíos.xml
+C:\Users\Cristian\Desktop\201504079_Envíos\201504079_Envíos\obj\Debug\201504079_Envíos.pdb
