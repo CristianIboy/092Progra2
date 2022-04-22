@@ -1,0 +1,13 @@
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Corto #3\201504079_CORTO3\201504079_CORTO3\bin\Debug\201504079_CORTO3.exe.config
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Corto #3\201504079_CORTO3\201504079_CORTO3\bin\Debug\201504079_CORTO3.exe
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Corto #3\201504079_CORTO3\201504079_CORTO3\bin\Debug\201504079_CORTO3.pdb
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Corto #3\201504079_CORTO3\201504079_CORTO3\bin\Debug\201504079_CORTO3.xml
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Corto #3\201504079_CORTO3\201504079_CORTO3\obj\Debug\201504079_CORTO3.vbproj.AssemblyReference.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Corto #3\201504079_CORTO3\201504079_CORTO3\obj\Debug\201504079_CORTO3.vbproj.SuggestedBindingRedirects.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Corto #3\201504079_CORTO3\201504079_CORTO3\obj\Debug\_201504079_CORTO3.Form1.resources
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Corto #3\201504079_CORTO3\201504079_CORTO3\obj\Debug\_201504079_CORTO3.Resources.resources
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Corto #3\201504079_CORTO3\201504079_CORTO3\obj\Debug\201504079_CORTO3.vbproj.GenerateResource.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Corto #3\201504079_CORTO3\201504079_CORTO3\obj\Debug\201504079_CORTO3.vbproj.CoreCompileInputs.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Corto #3\201504079_CORTO3\201504079_CORTO3\obj\Debug\201504079_CORTO3.exe
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Corto #3\201504079_CORTO3\201504079_CORTO3\obj\Debug\201504079_CORTO3.xml
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\Tareas Progra 092\Corto #3\201504079_CORTO3\201504079_CORTO3\obj\Debug\201504079_CORTO3.pdb
