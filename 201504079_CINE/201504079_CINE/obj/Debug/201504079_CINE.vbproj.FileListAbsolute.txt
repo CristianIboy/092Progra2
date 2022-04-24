@@ -1,0 +1,13 @@
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial3\201504079_CINE\201504079_CINE\bin\Debug\201504079_CINE.exe.config
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial3\201504079_CINE\201504079_CINE\bin\Debug\201504079_CINE.exe
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial3\201504079_CINE\201504079_CINE\bin\Debug\201504079_CINE.pdb
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial3\201504079_CINE\201504079_CINE\bin\Debug\201504079_CINE.xml
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial3\201504079_CINE\201504079_CINE\obj\Debug\201504079_CINE.vbproj.AssemblyReference.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial3\201504079_CINE\201504079_CINE\obj\Debug\201504079_CINE.vbproj.SuggestedBindingRedirects.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial3\201504079_CINE\201504079_CINE\obj\Debug\_201504079_CINE.Form1.resources
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial3\201504079_CINE\201504079_CINE\obj\Debug\_201504079_CINE.Resources.resources
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial3\201504079_CINE\201504079_CINE\obj\Debug\201504079_CINE.vbproj.GenerateResource.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial3\201504079_CINE\201504079_CINE\obj\Debug\201504079_CINE.vbproj.CoreCompileInputs.cache
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial3\201504079_CINE\201504079_CINE\obj\Debug\201504079_CINE.exe
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial3\201504079_CINE\201504079_CINE\obj\Debug\201504079_CINE.xml
+E:\Cristian 2022\Primer Semestre 2022\Progra 092\201504079_Parcial3\201504079_CINE\201504079_CINE\obj\Debug\201504079_CINE.pdb
